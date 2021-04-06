@@ -15,6 +15,8 @@
   </style>
   <body>
 
+    <body background="meinhintergrund.jpg">
+      
 <center>
   <h1>Wetter</h1>
   <h2>Wetter für Langenpreising</h2>
