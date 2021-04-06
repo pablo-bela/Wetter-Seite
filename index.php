@@ -15,7 +15,7 @@
   </style>
   <body>
 
-    <body background="meinhintergrund.jpg">
+    <body background="hintergrund.jpg">
       
 <center>
   <h1>Wetter</h1>
