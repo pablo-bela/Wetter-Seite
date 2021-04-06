@@ -10,7 +10,7 @@
 
     <title>website</title>
   </head>
-  <style media="screen">
+  <style color= white >
 
   </style>
   <body>
