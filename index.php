@@ -17,7 +17,7 @@
       
       <center>
      <h1 style="color:White">Wetter</h1>
-     <h2 style="color:White">Wetter für Langenpreising</h2>
+     <h2 style="color:White">Wetter für Wartenberg</h2>
   </center>
       
       
