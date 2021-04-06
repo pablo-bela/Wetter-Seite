@@ -16,9 +16,9 @@
   <center>
      <h1 style="color:White">Wetter</h1>
      <h2 style="color:White">Wetter für Langenpreising</h2>
-    <h1>  </h1>
-    <h1>  </h1>
-    <h1>  </h1>
+    <h1>   </h1>
+    <h1>   </h1>
+    <h1>   </h1>
   </center>
 <center> <iframe src="https://www.accuweather.com/de/de/langenpreising/85465/current-weather/172990?partner=wdg_operanrw_web" name="Wetter" id="Wetter" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400" width="600">
 </iframe>
