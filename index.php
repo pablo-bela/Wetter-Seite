@@ -15,12 +15,24 @@
     <title>website</title>
 </head>
 
-<body style= "font-family: 'Nunito', sans-serif;" background="hintergrund.jpg">
+//PHP Abfrage Wetter
+<?php
+//Wetterdaten abfragen
+$Wetter = file_get_contents("http://api.openweathermap.org/data/2.5/weather?q=Wartenberg&units=metric&appid=ca16610a67722dfea6459d7315bc5fee&lang=de");
+$Wetter = json_decode($Wetter);
 
+$Temperatur = $Wetter->main->temp;
+$Stadt = $Wetter->name;
+
+
+?>
+
+
+<body style= "font-family: 'Nunito', sans-serif;" background="hintergrund.jpg">
 <center>
     <h1 style="color:White">Wetter</h1>
     <br>
-    <h2 style="color:White">Wetter für Wartenberg</h2>
+    <h2 style="color:White">Wetter für <?php echo $Stadt?></h2>
     <br>
     <br>
 </center>
@@ -28,7 +40,6 @@
     <div class= "container">
         <div class="row">
             <div class="col-lg-4 col-sm-6">
-
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="card text-center hover-shadow-lg hover-translate-y-n10">
@@ -36,7 +47,7 @@
                         <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
                     </div>
                     <div class="px-4 pb-5">
-                        <h5>Secondary Pages</h5>
+                        <h3><?php echo $Temperatur?></h3>
                         <p class="text-muted">Awesome collection of pages for any scenario.</p>
                     </div>
                 </div>
@@ -46,8 +57,6 @@
         </div>
     </div>
 </section>
-
-
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
 </body>
