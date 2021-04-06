@@ -13,13 +13,36 @@
   <body>
     <body background="hintergrund.jpg">
 
-  <center>
+      
+      
+      <center>
      <h1 style="color:White">Wetter</h1>
      <h2 style="color:White">Wetter für Langenpreising</h2>
   </center>
+      
+      
+      
 <center> 
-<iframe style="max-width: 300px; border: none; min-height: 350px; background-color: transparent;" src="https://www.wetter.de/widget/heute/u28e2/true/"></iframe><a href="https://www.wetter.de/deutschland/wetter-langenpreising-18225800/wetterprognose.html" rel="nofollow" target="_blank"> 
-  </center>
+    <div class="card" style="width: 18rem;">
+     <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+     <ul class="list-group list-group-flush">
+    <li class="list-group-item">An item</li>
+    <li class="list-group-item">A second item</li>
+    <li class="list-group-item">A third item</li>
+     </ul>
+      <div class="card-body">
+       <a href="#" class="card-link">Card link</a>
+         <a href="#" class="card-link">Another link</a>
+        </div>
+        </div>
+        </center>
+      
+      
+      
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
   </body>
