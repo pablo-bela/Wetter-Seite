@@ -47,7 +47,7 @@ $Stadt = $Wetter->name;
                         <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
                     </div>
                     <div class="px-4 pb-5">
-                        <h3><?php echo $Temperatur?></h3>
+                        <h3><?php echo $Temperatur?>°C</h3>
                         <p class="text-muted">Awesome collection of pages for any scenario.</p>
                     </div>
                 </div>
