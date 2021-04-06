@@ -18,8 +18,8 @@
      <h2 style="color:White">Wetter für Langenpreising</h2>
   </center>
 <center> 
-<iframe style="max-width: 300px; border: none; min-height: 350px; background-color: transparent;" src="https://www.wetter.de/widget/heute/u28e2/true/"></iframe><a href="https://www.wetter.de/deutschland/wetter-langenpreising-18225800/wetterprognose.html" rel="nofollow" target="_blank">
-      </center>
+<iframe style="max-width: 300px; border: none; min-height: 350px; background-color: transparent;" src="https://www.wetter.de/widget/heute/u28e2/true/"></iframe><a href="https://www.wetter.de/deutschland/wetter-langenpreising-18225800/wetterprognose.html" rel="nofollow" target="_blank"> 
+  </center>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
   </body>
