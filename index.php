@@ -11,12 +11,11 @@
     <title>website</title>
   </head>
   
-  <body>
-    <body background="hintergrund.jpg">
+
+    <body style= "font-family: 'Nunito', sans-serif;" background="hintergrund.jpg">
 
       
-      
-      <center>
+  <center>
      <h1 style="color:White">Wetter</h1>
         <br>
      <h2 style="color:White">Wetter für Wartenberg</h2>
