@@ -15,7 +15,7 @@
     <title>website</title>
 </head>
 
-//PHP Abfrage Wetter
+
 <?php
 //Wetterdaten abfragen
 $Wetter = file_get_contents("http://api.openweathermap.org/data/2.5/weather?q=Wartenberg&units=metric&appid=ca16610a67722dfea6459d7315bc5fee&lang=de");
