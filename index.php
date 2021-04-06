@@ -33,7 +33,7 @@
             <div class="col-lg-4 col-sm-6">
                 <div class="card text-center hover-shadow-lg hover-translate-y-n10">
                     <div class="px-4 py-5">
-                        <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="svg-inject" style="height: 70px;">
+                        <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
                     </div>
                     <div class="px-4 pb-5">
                         <h5>Secondary Pages</h5>
