@@ -27,7 +27,7 @@
       
 <div class= "container">
   <div class= "row">
-    <div class= "col-lg-6"> </div>
+    <div class= "col-lg-5"> </div>
     <div class= "col-lg-4">
     <div class="card shadow-lg rounded" style="width: 18rem;">
      <img src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top" alt="...">
