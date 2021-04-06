@@ -26,7 +26,8 @@
       
       
 <div class= "container">
-  <div class= "row">
+  <div class= "row align-items-center
+">
     <div class= "col-lg-4"> </div>
     <div class= "col-lg-4">
     <div class="card shadow-lg rounded" style="width: 18rem;">
