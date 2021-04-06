@@ -13,6 +13,8 @@
   <style color= white >
 
   </style>
+  
+  <span style="color:white"> Weiße Schrift </span>
   <body>
 
     <body background="hintergrund.jpg">
