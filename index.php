@@ -14,8 +14,8 @@
     <body background="hintergrund.jpg">
 
   <center>
-     <h1>Wetter</h1>
-     <h2>Wetter für Langenpreising</h2>
+     <h1 style="color:White">Wetter</h1>
+     <h2 style="color:White">Wetter für Langenpreising</h2>
   </center>
  
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
