@@ -26,11 +26,10 @@
       
       
 <div class= "container">
-  <div class= "row align-items-center
-">
+  <div class= "row">
     <div class= "col-lg-4"> </div>
     <div class= "col-lg-4">
-    <div class="card shadow-lg rounded" style="width: 18rem;">
+    <div class="card align-middle shadow-lg rounded" style="width: 18rem;">
      <img src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
