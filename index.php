@@ -25,7 +25,9 @@
       
       
       
-<center> 
+<div class= "container">
+  <div class= "row">
+    <div class= "col-lg-4"> </div>
     <div class="card shadow-lg rounded" style="width: 18rem;">
      <img src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top" alt="...">
       <div class="card-body">
@@ -42,8 +44,7 @@
          <a href="#" class="card-link">Another link</a>
         </div>
         </div>
-        </center>
-      
+          
       
       
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
