@@ -17,7 +17,10 @@
       
       <center>
      <h1 style="color:White">Wetter</h1>
+        <br>
      <h2 style="color:White">Wetter für Wartenberg</h2>
+        <br>
+        <br>
   </center>
       
       
