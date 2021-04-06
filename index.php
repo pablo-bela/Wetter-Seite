@@ -26,26 +26,22 @@
 </center>
 <section class="slice slice-lg">
     <div class= "container">
-        <div class= "row row-grid justify-content-around align-items-center">
-            <div class= "col-lg-4 col-sm-6"> </div>
-            <div class= "col-lg-4 col-sm-6">
-                <div class="card shadow-lg rounded hover-translate-y-n10" style="width: 18rem;">
-                    <img src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <div class="row">
+            <div class="col-lg-4 col-sm-6">
+
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="card text-center hover-shadow-lg hover-translate-y-n10">
+                    <div class="px-4 py-5">
+                        <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="svg-inject" style="height: 70px;">
                     </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">An item</li>
-                        <li class="list-group-item">A second item</li>
-                        <li class="list-group-item">A third item</li>
-                    </ul>
-                    <div class="card-body">
-                        <a href="#" class="card-link">Card link</a>
-                        <a href="#" class="card-link">Another link</a>
+                    <div class="px-4 pb-5">
+                        <h5>Secondary Pages</h5>
+                        <p class="text-muted">Awesome collection of pages for any scenario.</p>
                     </div>
                 </div>
-                <div class= "col-lg-4 col-sm-6"> </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
             </div>
         </div>
     </div>
