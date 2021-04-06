@@ -14,7 +14,7 @@
   </style>
   <body>
     <body background="hintergrund.jpg">
-<style="background-color:white>
+<style= "background-color:white;">
   <center>
      <h1>Wetter</h1>
      <h2>Wetter für Langenpreising</h2>
