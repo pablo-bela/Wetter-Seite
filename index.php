@@ -68,7 +68,7 @@ $Status = $Wetter->weather->description;
             <div class="col-lg-4 col-sm-4">
                 <div class="card">
                     <div class="card-header">
-                        <b>Wettervorhersage</b>
+                        Wettervorhersage
                     </div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">An item</li>
