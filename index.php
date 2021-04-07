@@ -47,12 +47,24 @@ $Stadt = $Wetter->name;
                         <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
                     </div>
                     <div class="px-4 pb-5">
-                        <h3><?php echo $Temperatur?>°C</h3>
+                        <h1><?php echo $Temperatur?>°C</h1>
                         <p class="text-muted">Awesome collection of pages for any scenario.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
+            
+            
+  <div class="col-lg-4 col-sm-6">
+                <div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Featured
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">An item</li>
+    <li class="list-group-item">A second item</li>
+    <li class="list-group-item">A third item</li>
+  </ul>
+</div>
             </div>
         </div>
     </div>
