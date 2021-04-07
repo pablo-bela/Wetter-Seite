@@ -9,7 +9,7 @@
     <meta name="keywords" content="Wetter, Langenpreising Wetter, Wartenberg Wetter">
     <meta name="author" content="RoyalMiner">
 
-    <link rel="icon" href="/assets/img/brand/favicon.png" type="image/png">
+    <link rel="icon" href="https://cdn.discordapp.com/attachments/637625425404887080/829363394581889084/cool_bitmoji.png" type="image/png">
     <!-- Font Awesome 5 -->
     <link rel="stylesheet" href="/assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
     <!-- Page CSS -->
