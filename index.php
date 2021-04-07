@@ -11,7 +11,8 @@
     <!-- Bootstrap CSS -->
     <link rel="icon" href="/assets/img/brand/favicon.png" type="image/png">
     <!-- Font Awesome 5 -->
-    <link rel="stylesheet" href="/assets/libs/@fortawesome/fontawesome-free/css/all.min.css"><!-- Page CSS -->
+    <link rel="stylesheet" href="/assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
+    <!-- Page CSS -->
     <link rel="stylesheet" href="/assets/libs/swiper/dist/css/swiper.min.css">
     <!-- Purpose CSS -->
     <link rel="stylesheet" href="/assets/css/purpose-dark.css" id="stylesheet">
@@ -44,7 +45,7 @@ $Stadt = $Wetter->name;
 <section class="slice slice-lg">
     <div class= "container">
         <div class="row">
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-4 col-sm-4">
             </div>
 
             <!--left card-->
@@ -59,7 +60,7 @@ $Stadt = $Wetter->name;
 
             <!--middle card-->
 
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-4 col-sm-4">
                 <div class="card text-center hover-shadow-lg hover-translate-y-n10">
                     <div class="px-4 py-5">
                         <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
@@ -73,7 +74,7 @@ $Stadt = $Wetter->name;
 
             <!--right card-->
 
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-4 col-sm-4">
                 <div class="card" style="width: 18rem;">
                     <div class="card-header">
                         Featured
