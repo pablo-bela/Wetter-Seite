@@ -63,6 +63,10 @@ $Stadt = $Wetter->name;
     <li class="list-group-item">An item</li>
     <li class="list-group-item">A second item</li>
     <li class="list-group-item">A third item</li>
+    <li class="list-group-item">A fouth item</li>
+    <li class="list-group-item">A fifth item</li>
+    <li class="list-group-item">A sixth item</li>
+    <li class="list-group-item">A seventh item</li>
   </ul>
 </div>
             </div>
