@@ -94,7 +94,7 @@ $Stadt = $Wetter->name;
 </section>
 
 <!--Footer-->
-<footer class="footer p-0 footer-dark bg-transparent" id="footer-main">
+<footer class="footer p-0 footer-dark bg-transparent" style="text-color: black;">
     <div class="container">
         <div class="py-4">
             <div class="row align-items-md-center">
