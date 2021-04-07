@@ -39,7 +39,7 @@ $Stadt = $Wetter->name;
 <section class="slice slice-lg">
     <div class= "container">
         <div class="row">
-            <div class="col-lg-4 col-sm-4">
+            <div class="col-lg-4 col-sm-6">
             </div>
      
         <div class="card" style="width: 18rem;">
@@ -63,7 +63,7 @@ $Stadt = $Wetter->name;
             </div>
             
             
-  <div class="col-lg-4 col-sm-4">
+  <div class="col-lg-4 col-sm-6">
                 <div class="card" style="width: 18rem;">
   <div class="card-header">
     Featured
