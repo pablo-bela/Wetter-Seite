@@ -94,37 +94,36 @@ $Stadt = $Wetter->name;
 </section>
 
 <!--Footer-->
-<div id="footers-footer-2" title="footers/footer-2.html">
-    <footer class="footer p-0 footer-dark bg-gradient-dark" id="footer-main">
-        <div class="container">
-            <div class="py-4">
-                <div class="row align-items-md-center">
-                    <div class="col-md-4 mb-4 mb-md-0">
-                        <div class="d-flex align-items-center">
-                            <p class="text-sm mb-0">&copy;2021 Royal_Miner - All rights reserved.</p>
-                        </div>
+<footer class="footer p-0 footer-dark bg-transparent" id="footer-main">
+    <div class="container">
+        <div class="py-4">
+            <div class="row align-items-md-center">
+                <div class="col-md-4 mb-4 mb-md-0">
+                    <div class="d-flex align-items-center">
+                        <p class="text-sm mb-0">&copy;2021 Royal_Miner - All rights reserved.</p>
                     </div>
-                    <div class="col-sm-6 col-md-4 mb-4 mb-sm-0">
-                    </div>
-                    <div class="col-sm-6 col-md-4">
-                        <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://dribbble.com/webpixels" target="_blank">
-                                    <i class="fab fa-dribbble"></i>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://github.com/RoyalMiner/Wetter-Seite" target="_blank">
-                                    <i class="fab fa-github"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 mb-4 mb-sm-0">
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://dribbble.com/webpixels" target="_blank">
+                                <i class="fab fa-dribbble"></i>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://github.com/RoyalMiner/Wetter-Seite" target="_blank">
+                                <i class="fab fa-github"></i>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
-    </footer>
-</div>
+    </div>
+</footer>
+
 <script src="/assets/js/purpose.core.js"></script>
 <!-- Page JS -->
 <script src="/assets/libs/swiper/dist/js/swiper.min.js"></script>
