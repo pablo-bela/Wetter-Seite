@@ -42,16 +42,13 @@ $Stadt = $Wetter->name;
             <div class="col-lg-4 col-sm-6">
             </div>
      
-            <div class="row">
-  <div class="col-sm-6">
-    <div class="card">
-      <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
-      </div>
-    </div>
+        <div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
+</div>
   
             <div class="col-lg-4 col-sm-6">
                 <div class="card text-center hover-shadow-lg hover-translate-y-n10">
