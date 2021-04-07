@@ -92,7 +92,7 @@ $Stadt = $Wetter->name;
             <div class="row align-items-md-center">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="d-flex align-items-center">
-                        <p class="text-sm mb-0" style="color: black">&copy;2021 Royal_Miner - All rights reserved.</p>
+                        <p class="text-sm mb-0" style="color: black">&copy;2021 Royal_Miner & TmNiklas - All rights reserved.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 mb-4 mb-sm-0">
