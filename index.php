@@ -35,7 +35,7 @@ $Status = $Wetter->weather->description;
 ?>
 
 
-<body style= "font-family: 'Nunito', sans-serif;" background="hintergrund.jpg">
+<body style= "font-family: 'Nunito', sans-serif;   background-repeat: no-repeat; background-attachment: fixed;" background="hintergrund.jpg">
 <center>
     <h1 style="color:White">Wetter</h1>
     <br>
