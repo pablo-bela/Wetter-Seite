@@ -47,7 +47,7 @@ $Stadt = $Wetter->name;
         <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h4 class="card-title">Danke dass du diese Seite verwendest</h4>
-      <p font-size="13px"; class="card-text">Diese Seite wurde von <a href="https://github.com/tmniklas" target="_blank">TmNiklas </a> und <a href="https://github.com/royalminer"> Royal_Miner </a> erstellt.</p>
+      <p font-size="13px"; class="card-text">Diese Seite wurde von <a href="https://github.com/tmniklas" target="_blank">TmNiklas </a> und <a href="https://github.com/royalminer" target="_blank"> Royal_Miner </a> erstellt.</p>
     <a href="https://github.com/RoyalMiner/Wetter-Seite"; target="_blank"; class="btn btn-primary">Github</a>
   </div>
 </div>
