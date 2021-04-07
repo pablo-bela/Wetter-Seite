@@ -42,7 +42,7 @@ $Stadt = $Wetter->name;
     <br>
     <br>
 </center>
-<section class="slice slice-lg">
+<section class="slice slice-lg bg-transparent">
     <div class= "container">
         <div class="row">
             <div class="col-lg-4 col-sm-4">
