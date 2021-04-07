@@ -29,6 +29,7 @@ $Wetter = json_decode($Wetter);
 
 $Temperatur = $Wetter->main->temp;
 $Stadt = $Wetter->name;
+$Status = $Wetter->weather->description;
 
 
 ?>
@@ -57,7 +58,7 @@ $Stadt = $Wetter->name;
                     </div>
                     <div class="px-4 pb-5">
                         <h1><?php echo $Temperatur?>°C</h1>
-                        <p class="text-muted">Awesome collection of pages for any scenario.</p>
+                        <p class="text-muted"><?php echo $Status?></p>
                     </div>
                 </div>
             </div>
