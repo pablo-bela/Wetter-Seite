@@ -9,7 +9,12 @@
     <meta name="keywords" content="Wetter, Langenpreising Wetter, Wartenberg Wetter">
     <meta name="author" content="RoyalMiner">
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <link rel="icon" href="/assets/img/brand/favicon.png" type="image/png">
+    <!-- Font Awesome 5 -->
+    <link rel="stylesheet" href="/assets/libs/@fortawesome/fontawesome-free/css/all.min.css"><!-- Page CSS -->
+    <link rel="stylesheet" href="/assets/libs/swiper/dist/css/swiper.min.css">
+    <!-- Purpose CSS -->
+    <link rel="stylesheet" href="/assets/css/purpose-dark.css" id="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
     <title>Wetter für Wartenberg ☀</title>
@@ -39,21 +44,21 @@ $Stadt = $Wetter->name;
 <section class="slice slice-lg">
     <div class= "container">
         <div class="row">
-            <div class="col-lg-2 col-sm-6">
+            <div class="col-lg-4 col-sm-6">
             </div>
-     
-  <!--left card-->     
-            
-        <div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h4 class="card-title">Danke dass du diese Seite verwendest</h4>
-      <p font-size="13px"; class="card-text">Diese Seite wurde von <a href="https://github.com/tmniklas" target="_blank">TmNiklas </a> und <a href="https://github.com/royalminer" target="_blank"> Royal_Miner </a> erstellt.</p>
-    <a href="https://github.com/RoyalMiner/Wetter-Seite"; target="_blank"; class="btn btn-primary">Github</a>
-  </div>
-</div>
-            
-<!--middle card-->
-            
+
+            <!--left card-->
+
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h4 class="card-title">Danke dass du diese Seite verwendest</h4>
+                    <p font-size="13px"; class="card-text">Diese Seite wurde von <a href="https://github.com/tmniklas" target="_blank">TmNiklas </a> und <a href="https://github.com/royalminer" target="_blank"> Royal_Miner </a> erstellt.</p>
+                    <a href="https://github.com/RoyalMiner/Wetter-Seite"; target="_blank"; class="btn btn-primary">Github</a>
+                </div>
+            </div>
+
+            <!--middle card-->
+
             <div class="col-lg-4 col-sm-6">
                 <div class="card text-center hover-shadow-lg hover-translate-y-n10">
                     <div class="px-4 py-5">
@@ -65,29 +70,34 @@ $Stadt = $Wetter->name;
                     </div>
                 </div>
             </div>
-            
-   <!--right card-->      
-            
-  <div class="col-lg-2 col-sm-6">
+
+            <!--right card-->
+
+            <div class="col-lg-4 col-sm-6">
                 <div class="card" style="width: 18rem;">
-  <div class="card-header">
-    Featured
-  </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">An item</li>
-    <li class="list-group-item">A second item</li>
-    <li class="list-group-item">A third item</li>
-    <li class="list-group-item">A fouth item</li>
-    <li class="list-group-item">A fifth item</li>
-    <li class="list-group-item">A sixth item</li>
-    <li class="list-group-item">A seventh item</li>
-  </ul>
-</div>
+                    <div class="card-header">
+                        Featured
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">An item</li>
+                        <li class="list-group-item">A second item</li>
+                        <li class="list-group-item">A third item</li>
+                        <li class="list-group-item">A fouth item</li>
+                        <li class="list-group-item">A fifth item</li>
+                        <li class="list-group-item">A sixth item</li>
+                        <li class="list-group-item">A seventh item</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
 </section>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
+<script src="/assets/js/purpose.core.js"></script>
+<!-- Page JS -->
+<script src="/assets/libs/swiper/dist/js/swiper.min.js"></script>
+<!-- Purpose JS -->
+<script src="/assets/js/purpose.js"></script>
+<!-- Demo JS - remove it when starting your project -->
+<script src="/assets/js/demo.js"></script>
 </body>
 </html>
