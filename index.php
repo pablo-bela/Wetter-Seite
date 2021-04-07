@@ -60,7 +60,7 @@ $Stadt = $Wetter->name;
             <!--middle card-->
 
             <div class="col-lg-4 col-sm-4">
-                <div class="card" style="width: 18rem;">
+                <div class="card text-center" style="width: 18rem;">
                     <div class="px-4 py-5">
                         <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
                     </div>
