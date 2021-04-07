@@ -48,7 +48,7 @@ $Stadt = $Wetter->name;
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="https://github.com/RoyalMiner/Wetter-Seite" target:"_blank" class="btn btn-primary">Github</a>
+    <a href="https://github.com/RoyalMiner/Wetter-Seite"; target:"_blank"; class="btn btn-primary">Github</a>
   </div>
 </div>
             
