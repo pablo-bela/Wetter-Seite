@@ -108,11 +108,6 @@ $Stadt = $Wetter->name;
                 <div class="col-sm-6 col-md-4">
                     <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="https://dribbble.com/webpixels" target="_blank">
-                                <i class="fab fa-dribbble"></i>
-                            </a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link" href="https://github.com/RoyalMiner/Wetter-Seite" target="_blank">
                                 <i class="fab fa-github"></i>
                             </a>
