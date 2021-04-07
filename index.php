@@ -42,6 +42,7 @@ $Stadt = $Wetter->name;
             <div class="col-lg-2 col-sm-6">
             </div>
      
+  <!left card>          
         <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
@@ -49,7 +50,7 @@ $Stadt = $Wetter->name;
     <a href="https://github.com/RoyalMiner/Wetter-Seite" target:"_blank" class="btn btn-primary">Github</a>
   </div>
 </div>
-  
+<!middle card>
             <div class="col-lg-4 col-sm-6">
                 <div class="card text-center hover-shadow-lg hover-translate-y-n10">
                     <div class="px-4 py-5">
@@ -62,7 +63,7 @@ $Stadt = $Wetter->name;
                 </div>
             </div>
             
-            
+   <!right card>         
   <div class="col-lg-2 col-sm-6">
                 <div class="card" style="width: 18rem;">
   <div class="card-header">
