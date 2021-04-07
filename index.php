@@ -94,13 +94,13 @@ $Stadt = $Wetter->name;
 </section>
 
 <!--Footer-->
-<footer class="footer p-0 footer-dark bg-transparent" style="color: black;">
+<footer class="footer p-0 footer-dark bg-transparent">
     <div class="container">
         <div class="py-4">
             <div class="row align-items-md-center">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="d-flex align-items-center">
-                        <p class="text-sm mb-0">&copy;2021 Royal_Miner - All rights reserved.</p>
+                        <p class="text-sm mb-0" style="color: black">&copy;2021 Royal_Miner - All rights reserved.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 mb-4 mb-sm-0">
@@ -108,7 +108,7 @@ $Stadt = $Wetter->name;
                 <div class="col-sm-6 col-md-4">
                     <ul class="nav justify-content-center justify-content-md-end mt-3 mt-md-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="https://github.com/RoyalMiner/Wetter-Seite" target="_blank">
+                            <a class="nav-link" href="https://github.com/RoyalMiner/Wetter-Seite" target="_blank" style="color: black">
                                 <i class="fab fa-github"></i>
                             </a>
                         </li>
