@@ -45,8 +45,7 @@ $Stadt = $Wetter->name;
 <section class="slice slice-lg bg-transparent">
     <div class= "container">
         <div class="row">
-            <div class="col-lg-4 col-sm-4">
-                <!--left card-->
+            <div class="col-lg-2 col-sm-4">
             </div>
 
             <!--middle card-->
@@ -80,6 +79,9 @@ $Stadt = $Wetter->name;
                         <li class="list-group-item">A seventh item</li>
                     </ul>
                 </div>
+            </div>
+
+            <div class="col-lg-2 col-sm-4">
             </div>
         </div>
     </div>
