@@ -47,20 +47,12 @@ $Stadt = $Wetter->name;
         <div class="row">
             <div class="col-lg-4 col-sm-4">
                 <!--left card-->
-
-                <div class="card text-center" style="width: 18rem;">
-                    <div class="card-body">
-                        <h4 class="card-title">Danke dass du diese Seite verwendest</h4>
-                        <p font-size="13px"; class="card-text">Diese Seite wurde von <a href="https://github.com/tmniklas" target="_blank">TmNiklas </a> und <a href="https://github.com/royalminer" target="_blank"> Royal_Miner </a> erstellt.</p>
-                        <a href="https://github.com/RoyalMiner/Wetter-Seite"; target="_blank"; class="btn btn-primary">Github</a>
-                    </div>
-                </div>
             </div>
 
             <!--middle card-->
 
             <div class="col-lg-4 col-sm-4">
-                <div class="card text-center" style="width: 18rem;">
+                <div class="card text-center">
                     <div class="px-4 py-5">
                         <img alt="Image placeholder" src="https://www.vg-wartenberg.de/wp-content/uploads/2018/07/wartenberg.jpg" class="card-img-top">
                     </div>
@@ -74,7 +66,7 @@ $Stadt = $Wetter->name;
             <!--right card-->
 
             <div class="col-lg-4 col-sm-4">
-                <div class="card" style="width: 18rem;">
+                <div class="card">
                     <div class="card-header">
                         Featured
                     </div>
